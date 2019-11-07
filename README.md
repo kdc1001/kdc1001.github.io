@@ -1,2 +1,2 @@
-# kdc1001.github.io
-Blog
+### www.rustlang.top/
+# rust语言中文文档
